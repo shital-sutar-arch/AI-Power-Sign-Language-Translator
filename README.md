@@ -1,12 +1,12 @@
 **# AI-Power-Sign-Language-Translator
+<br>
 AI Power Sign Language Translator that translates Signs with voice given by the user.
 <br>
 The AI Power Sign Language Translator is an innovative project designed to bridge the communication gap between individuals who use sign language and those who do not. This project uses advanced AI  techniques to translate sign language gestures into spoken language, enabling seamless interaction.
 <br>
-
 Key Features:
 <br>
-Real-Time Translation: Converts sign language gestures into text or voice in real time.
+Real-Time Translation: Converts sign language gestures into text and voice in real time.
 <br>
 Speech Integration: Outputs translations as audio for improved accessibility.
 <br>
@@ -28,12 +28,10 @@ Purpose and Goals:
 Technologies Used
 <br>
 Frontend:
-
 HTML/JavaScript: For building a responsive and dynamic user interface.
 <br>
 Webcam Integration: To capture gestures in real time.
 <br>
-
 Backend:
 <br>
 Flask: To handle API requests for gesture recognition and translation.
@@ -59,3 +57,4 @@ Each frame is processed using AI-based gesture recognition.
 3. Translation: Recognized gestures are mapped to corresponding text or speech using a trained model.
 <br>
 4. Output: The translated result is displayed as text and played as audio.
+<br>
